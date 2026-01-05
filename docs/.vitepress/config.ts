@@ -1,11 +1,13 @@
 import { createRequire } from 'module'
-import { defineAdditionalConfig, type DefaultTheme } from 'vitepress'
+import { defineConfig, type DefaultTheme } from 'vitepress'
 
 const require = createRequire(import.meta.url)
 const pkg = require('vitepress/package.json')
 
-export default defineAdditionalConfig({
+export default defineConfig({
+  title: 'The Islamic Index',
   description: 'An organized hub of Islamic online resources.',
+  base: '/The-Islamic-Index/',
 
   themeConfig: {
     nav: nav(),
