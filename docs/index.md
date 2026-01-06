@@ -15,11 +15,30 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - 
+    title: Quran
+    details: Stream, download, or read the Holy Quran online.
+    link: /topics/quran/
+
+  - 
+    title: Verified Sources
+    details: Placeholder notes for source type, scholar, language, and access level.
+    link: /topics/verified-sources/
+  - 
+    title: Learning Paths
+    details: Placeholder tracks for beginners, students, and researchers to follow.
+    link: /topics/learning-paths/
+  - 
+    title: Language Filters
+    details: Placeholder filters for Arabic, English, Urdu, and more.
+    link: /topics/language-filters/
+  - 
+    title: Community Picks
+    details: Placeholder submissions reviewed before they join the index.
+    link: /topics/community-picks/
+  - 
+    title: Open Tools
+    details: Placeholder tools for search, tags, and export.
+    link: /topics/open-tools/
 ---
 

@@ -12,6 +12,10 @@ export default defineConfig({
   themeConfig: {
     nav: nav(),
 
+    socialLinks: [
+    { icon: 'github', link: 'https://github.com/HusseinBenz/The-Islamic-Index' }
+    ],
+
     sidebar: {
       '/guide/': { base: '/guide/'},
       '/reference/': { base: '/reference/'}
@@ -27,6 +31,7 @@ export default defineConfig({
     copyright: 'This project is based on Vitepess. Thanks to Evan You 🌱'
     }
 
+    
   }
 })
 
