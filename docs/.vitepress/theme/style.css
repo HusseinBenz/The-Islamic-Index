@@ -114,6 +114,27 @@
   );
 }
 
+html[lang="ar"] {
+  --vp-font-family-base: "Noto Naskh Arabic", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+html[lang="ar"] .VPHomeHero .name {
+  font-family: "Aref Ruqaa";
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 80px;
+}
+
+html[lang="ar"] .VPNavBarTitle .title span {
+  font-family: "Aref Ruqaa";
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 80px;
+}
+
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);
