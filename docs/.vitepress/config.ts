@@ -89,7 +89,7 @@ function nav(): DefaultTheme.NavItem[] {
       text: 'Contact Us',
       link: '/contact-us/',
       activeMatch: '/contact-us/'
-    },
+    }/*,
     {
       text: pkg.version,
       items: [
@@ -106,7 +106,7 @@ function nav(): DefaultTheme.NavItem[] {
           link: 'https://github.com/vuejs/vitepress/blob/main/.github/contributing.md'
         }
       ]
-    }
+    }*/
   ]
 }
 

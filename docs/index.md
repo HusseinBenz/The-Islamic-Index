@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "The Islamic Index"
   text: "An organized hub of Islamic online resources."
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  #tagline: My great project tagline
+  #actions:
+  #  - theme: brand
+  #    text: Markdown Examples
+  #    link: /markdown-examples
+  #  - theme: alt
+  #    text: API Examples
+  #    link: /api-examples
 
 features:
   - 
