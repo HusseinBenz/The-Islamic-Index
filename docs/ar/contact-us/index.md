@@ -28,5 +28,6 @@ As this project is maintained by volunteers, responses may take some time. We ap
 
 Every message is read with care, and we ask Allah to place barakah in all beneficial intentions and efforts.
 
+---
 
 May Allah reward you for contributing to what benefits others.
