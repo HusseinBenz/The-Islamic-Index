@@ -1,33 +1,30 @@
 ---
-title: Contact Us
+title: اتصل بنا
 ---
 
-# Contact Us
+# اتصل بنا
 
-We are always glad to hear from you.
+يسعدنا دائمًا أن نسمع منك.
 
-The Islamic Index is a community-driven project, and your messages help us improve, correct, and grow. Whether you have a suggestion, a question, or notice something that needs attention, your input is welcome.
+مشروع **الفهرس الإسلامي** هو مشروع قائم على المجتمع، ورسائلكم تساعدنا على التحسين، والتصحيح، والنمو. سواء كان لديك اقتراح، أو سؤال، أو لاحظت أمرًا يحتاج إلى انتباه، فإن مساهمتك محل ترحيب.
 
-## How to Reach Us
+## كيفية التواصل معنا
 
-At the moment, we can be reached via email:
+في الوقت الحالي، يمكن التواصل معنا عبر البريد الإلكتروني:
 
-- **Email:** [917afc4d52bbf+contact@proton.me](mailto:917afc4d52bbf+contact@proton.me)
+- **البريد الإلكتروني:** [917afc4d52bbf+contact@proton.me](mailto:917afc4d52bbf+contact@proton.me)
 
+لا تتردد في التواصل معنا من أجل:
+- اقتراح موارد جديدة
+- الإبلاغ عن الروابط المعطلة أو القديمة
+- اقتراح تعديلات أو تحسينات
+- طرح أسئلة حول المشروع
+- تقديم ملاحظات أو نصائح عامة
 
-Please feel free to contact us for:
-- Submitting new resource suggestions
-- Reporting broken or outdated links
-- Suggesting edits or improvements
-- Asking questions about the project
-- General feedback or advice
+## ملاحظة صغيرة
 
-## A Small Note
+نظرًا لأن هذا المشروع يُدار من قِبل متطوعين، فقد يستغرق الرد بعض الوقت. نقدر صبركم وتفهمكم.
 
-As this project is maintained by volunteers, responses may take some time. We appreciate your patience and understanding.
+نقرأ كل رسالة بعناية، ونسأل الله أن يضع البركة في كل نية وعمل نافع.
 
-Every message is read with care, and we ask Allah to place barakah in all beneficial intentions and efforts.
-
----
-
-May Allah reward you for contributing to what benefits others.
+جزاكم الله خيرًا على مساهمتكم في ما ينفع الآخرين.

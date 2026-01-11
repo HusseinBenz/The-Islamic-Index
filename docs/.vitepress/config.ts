@@ -25,7 +25,15 @@ export default defineConfig({
             href: 'https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Aref+Ruqaa:wght@400;700&family=Noto+Naskh+Arabic:wght@400;700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Playpen+Sans+Arabic:wght@100..800&display=swap'
           }
         ]
-      ]
+      ],
+      themeConfig: {
+        notFound: {
+          title: 'الصفحة غير موجودة',
+          quote: 'لم نتمكن من العثور على الصفحة',
+          linkText: 'العودة إلى الصفحة الرئيسية',
+          linkLabel: 'العودة إلى الصفحة الرئيسية'
+        }
+      }
     },
     zh: { label: '简体中文', lang: 'zh-Hans', dir: 'ltr' },
     pt: { label: 'Português', lang: 'pt-BR', dir: 'ltr' },

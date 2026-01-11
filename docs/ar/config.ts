@@ -50,6 +50,12 @@ export default defineConfig({
       ]
     },
 
+    notFound: {
+      title: 'الصفحة غير موجودة',
+      linkText: 'العودة إلى الصفحة الرئيسية',
+      linkLabel: 'العودة إلى الصفحة الرئيسية'
+    },
+
    editLink: {
      pattern: 'https://github.com/HusseinBenz/The-Islamic-Index/',
      text: 'حرّر هذه الصفحة على GitHub'

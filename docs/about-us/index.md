@@ -110,4 +110,3 @@ With the help of the community, we hope this project continues to serve as a ben
 
 
 If you have a suggestion, correction, or link to share, we encourage you to contribute via the Contribute page, GitHub, or by contacting us via email: [917afc4d52bbf+contribute@proton.me](mailto:917afc4d52bbf+contribute@proton.me?subject=I%20wanna%20contribute%20to%20the%20islamic%20index%body=Assalamu%20Alaikum)
-
