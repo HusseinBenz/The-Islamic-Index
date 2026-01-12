@@ -27,6 +27,9 @@ export default defineConfig({
         ]
       ],
       themeConfig: {
+        outline: {
+          label: '\u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0635\u0641\u062d\u0629'
+        },
         notFound: {
           title: 'الصفحة غير موجودة',
           quote: 'لم نتمكن من العثور على الصفحة',
